@@ -1,10 +1,10 @@
 {
   "name": "Minty",
-  "displayName": "Minty 🌿",
-  "description": "Stay Minty!",
+  "displayName": "Minty Dark",
+  "description": "A sleek, minimal dark theme for Visual Studio Code.. Stay Minty!💚",
   "version": "0.0.1",
   "icon": "mint.png",
-  "publisher": "ShanukaFernando",
+  "publisher": "ShanukaKFernando",
   "repository": {
     "type": "git",
     "url": "https://github.com/shanukavinda/Minty.git"
