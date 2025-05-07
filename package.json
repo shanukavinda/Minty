@@ -3,6 +3,22 @@
   "displayName": "Minty 🌿",
   "description": "Stay Minty!",
   "version": "0.0.1",
+  "icon": "mint.png",
+  "publisher": "ShanukaFernando",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shanukavinda/Minty.git"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "simple",
+    "minimal",
+    "minimalist",
+    "calm",
+    "mint",
+    "menthol"
+  ],
   "engines": {
     "vscode": "^1.99.0"
   },
@@ -19,3 +35,4 @@
     ]
   }
 }
+
