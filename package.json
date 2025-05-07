@@ -1,0 +1,21 @@
+{
+  "name": "Minty",
+  "displayName": "Minty 🌿",
+  "description": "Stay Minty!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Minty Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Minty Dark-color-theme.json"
+      }
+    ]
+  }
+}
