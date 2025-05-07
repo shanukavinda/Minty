@@ -30,7 +30,7 @@
       {
         "label": "Minty Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Minty Dark-color-theme.json"
+        "path": "./themes/minty-dark-color-theme.json"
       }
     ]
   }
