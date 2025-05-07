@@ -1,5 +1,5 @@
 {
-  "name": "MintyFinal",
+  "name": "Minty Dark",
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {
@@ -1840,7 +1840,7 @@
       "name": "markup.italic.markdown",
       "scope": "markup.italic.markdown",
       "settings": {
-        "fontStyle": "normal"
+        "fontStyle": "italic"
       }
     }
   ],
