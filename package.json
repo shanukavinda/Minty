@@ -2,7 +2,7 @@
   "name": "Minty",
   "displayName": "Minty Dark",
   "description": "A sleek, minimal dark theme for Visual Studio Code.. Stay Minty!💚",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "icon": "mint.png",
   "publisher": "ShanukaKFernando",
   "repository": {
@@ -35,4 +35,3 @@
     ]
   }
 }
-
