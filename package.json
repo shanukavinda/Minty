@@ -33,5 +33,6 @@
         "path": "./themes/minty-dark-color-theme.json"
       }
     ]
-  }
+  },
+  "license": "MIT"
 }
