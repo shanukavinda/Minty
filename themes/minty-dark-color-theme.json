@@ -1066,7 +1066,7 @@
       "name": "laravel blade tag",
       "scope": "text.html.laravel-blade source.php.embedded.line.html entity.name.tag.laravel-blade",
       "settings": {
-        "foreground": "#add7ff"
+        "foreground": "#90a1ba"
       }
     },
     {
