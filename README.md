@@ -3,7 +3,7 @@
 A sleek, minimal dark theme for Visual Studio Code.
 Designed to be easy on the eyes, elegant in style, and focused on what matters — your code.
 
-![minty](https://raw.githubusercontent.com/shanukavinda/Minty/refs/heads/master/images/simplemint.jpg?token=GHSAT0AAAAAADDE5EH6ZLERIPYDTMB3CIVC2BIHA7Q)
+![minty](https://raw.githubusercontent.com/shanukavinda/Minty/refs/heads/master/images/simplemint.jpg?token=GHSAT0AAAAAADDE5EH6KRMLHMSS2N75ARI42BIHX3Q)
 
 ## ✨ Features
 
